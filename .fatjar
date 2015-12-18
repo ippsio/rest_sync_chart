@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Dec 18 22:00:49 JST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=rest_sync_chart_fat.jar
+manifest.mergeall=true
+manifest.mainclass=sync_chart.SyncChart
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
